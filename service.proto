@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+package nodeService;
+
+// Message to represent a node event
+message NodeEvent {
+  int32 id = 1;
+  string type = 2;
+  int32 term = 3;
+}
+
+// Service definition
+service NodeCommunication {
+  rpc SendEvent(NodeEvent) returns (NodeEvent);
+}

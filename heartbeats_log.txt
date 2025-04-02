@@ -1,0 +1,5 @@
+Heartbeat: Node 3 sent heartbeat for term 1 at 2025-04-02 19:19:20
+Heartbeat: Node 3 sent heartbeat for term 1 at 2025-04-02 13:46:33
+Heartbeat: Node 1 sent heartbeat for term 2 at 2025-04-02 13:46:53
+Heartbeat: Node 0 sent heartbeat for term 0 at 2025-04-02 15:52:59
+Heartbeat: Node 2 sent heartbeat for term 2 at 2025-04-02 15:53:21
